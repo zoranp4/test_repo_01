@@ -1,0 +1,2 @@
+
+Just to have something that Git sees as a change - in order to initiate Git and the GitHub credentials on L5 HDD  Git installation .
